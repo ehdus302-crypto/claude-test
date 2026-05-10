@@ -1,0 +1,14 @@
+{
+  "name": "claude-test",
+  "owner": {
+    "name": "Team claude-test"
+  },
+  "plugins": [
+    {
+      "name": "moodboard-plugin",
+      "source": "./moodboard-plugin",
+      "description": "Pinterest 무드보드 수집(/moodboard) + 파일 정리(/sort-files) 통합 플러그인. Playwright MCP 포함.",
+      "version": "1.0.0"
+    }
+  ]
+}
