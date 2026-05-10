@@ -1,0 +1,6 @@
+{
+  "name": "moodboard-plugin",
+  "version": "1.0.0",
+  "description": "Pinterest 무드보드 수집 + 파일 정리 통합 플러그인",
+  "author": { "name": "ehdus302-crypto" }
+}
